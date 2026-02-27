@@ -1,3 +1,7 @@
+## 1.0.0-dev.10
+
+Upgrade `analyzer` to `^10.0.0`.
+
 ## 1.0.0-dev.9 - 2026-01-17
 
 Fix out of date dependency version.
